@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="OFRP-12.1"
+export FOX_BRANCH="main"
 export DT_LINK="https://github.com/lilknighthood/ofrp_device_oneplus_audi.git -b OFRP-12.1"
 
 export DEVICE="audi"
